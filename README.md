@@ -1,4 +1,9 @@
+
+
+
 Insurance Data Dashboard – Power BI Project
+
+
 The Insurance Data Dashboard is an interactive and visually rich Power BI project designed to analyze and monitor key insurance metrics. Built to support decision-makers in the insurance domain, the dashboard provides real-time insights into policy management, customer segmentation, claim performance, and regional analysis.
 
 By transforming raw insurance data into meaningful visuals, the dashboard allows stakeholders to identify trends, track KPIs, and improve strategic planning. It makes complex datasets accessible through clean design, drill-throughs, and filters—enabling faster, smarter business decisions.
