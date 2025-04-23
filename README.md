@@ -29,10 +29,15 @@ By transforming raw insurance data into meaningful visuals, the dashboard allows
 📈 KPI Tracking Panels: Clear performance indicators for claim approvals, active policies, and revenue insights.
 
 
-✅ Impa![Feedback_img](https://github.com/user-attachments/assets/4663caf7-3408-47c8-a931-6c1aced5095e)
-![Dashboard_img](https://github.com/user-attachments/assets/15f99fc5-32de-4586-be96-e195fbffe6f2)
-ct:
+✅ Impact:
 This dashboard empowers insurance analysts and executives to make data-driven decisions, enhance customer targeting, and improve operational efficiency. It also demonstrates strong proficiency in Power BI, DAX, and data storytelling.
+
+
+
+![Feedback_img](https://github.com/user-attachments/assets/4663caf7-3408-47c8-a931-6c1aced5095e)
+![Dashboard_img](https://github.com/user-attachments/assets/15f99fc5-32de-4586-be96-e195fbffe6f2)
+
+
 
 
 <a href="https://github.com/PriyankaSingh-1803/Data_Analytics_Projects/blob/main/InsuranceData.csv" target="_blank" download>Click here to download the Insurance Dataset</a>
