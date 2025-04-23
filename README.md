@@ -26,3 +26,6 @@ By transforming raw insurance data into meaningful visuals, the dashboard allows
 
 ✅ Impact:
 This dashboard empowers insurance analysts and executives to make data-driven decisions, enhance customer targeting, and improve operational efficiency. It also demonstrates strong proficiency in Power BI, DAX, and data storytelling.
+
+
+<a href="https://github.com/PriyankaSingh-1803/Data_Analytics_Projects/blob/main/InsuranceData.csv" target="_blank" download>Click here to download the Insurance Dataset</a>
