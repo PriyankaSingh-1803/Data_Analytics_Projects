@@ -5,6 +5,8 @@ By transforming raw insurance data into meaningful visuals, the dashboard allows
 
 
 🔍 Key Features:
+
+
 📊 Interactive Visualizations: Dynamic charts, graphs, and slicers that update in real time based on user selection.
 
 🧮 DAX-Powered Metrics: Advanced calculations for claim ratios, premium totals, customer growth, and loss percentages.
